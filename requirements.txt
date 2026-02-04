@@ -1,0 +1,11 @@
+plotly
+streamlit
+pandas
+fpdf
+openpyxl
+statsmodels
+kaleido
+matplotlib
+re
+plotly.express
+plotly.graph_objects
